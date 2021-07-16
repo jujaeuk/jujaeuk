@@ -1,4 +1,1 @@
-languages: R, PHP, Python
-major: applied economics
-work: metropolitan policy
-favorite: oregairu
+R, PHP, Python, deep learning, economtrics, oregairu, zelda
